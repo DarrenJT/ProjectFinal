@@ -68,7 +68,7 @@ When the 'Delete' option next to the field is selected, a confirmation message w
 ![image](https://user-images.githubusercontent.com/111532145/201701307-8f45d4a3-2d63-4156-9daf-51efd27e1e56.png)
 
 
-#FUTURE WORK
+# FUTURE WORK
 
 Within the development time given, I was able to create the page in which employee information was able to be added, updated and deleted. In future development I plan to add the 'Department' field, as well as onclude a separate page that lists the employees registered under their assigned departments. 
 
