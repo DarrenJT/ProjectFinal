@@ -45,6 +45,13 @@ A trello board was created to facilitate the project tracking requirements of th
 
 ![image](https://user-images.githubusercontent.com/111532145/201681548-cbb536c3-00b7-4423-9fa5-097d3d808bdd.png)
 
+## RISK ASSESSMENT    
+
+As part of the development process, a risk assessment was conducted to identify possible risks that could present themselves during the building and deploying of the app. This assessment identifies the risks, determines their threat level, and discusses preventative measures and responses to them. 
+
+
+![image](https://user-images.githubusercontent.com/111532145/201893928-2a3162e9-8c9d-4f5e-9e9c-ecc203a2de33.png)
+
 
 ## THE APP
 
