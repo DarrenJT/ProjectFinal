@@ -1,6 +1,6 @@
 # ProjectFinal
 
-##Note: This repository was created due to a communication issue with the previous repo that affected the functionality of the application. 
+## Note: This repository was created due to a communication issue with the previous repo that affected the functionality of the application. 
 The original repository can be found here: https://github.com/DarrenJT/DevOps-Core-Fundamental-Project
 
 First project as part of training. 
