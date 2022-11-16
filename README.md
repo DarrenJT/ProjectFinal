@@ -79,6 +79,8 @@ When the 'Delete' option next to the field is selected, a confirmation message w
 
 Within the development time given, I was able to create the page in which employee information was able to be added, updated and deleted. In future development I plan to add the 'Department' field, as well as include a separate page that lists the employees registered under their assigned departments. 
 
+I will also seek to remove any buttons that do not funcion, such as the 'Add Employee' option to the left of the functional submit field in the modal. 
+
 
 
 
