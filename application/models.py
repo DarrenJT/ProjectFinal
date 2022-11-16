@@ -5,9 +5,18 @@ class Data(db.Model):
     name = db.Column(db.String(100), nullable=False)
     email = db.Column(db.String(100), nullable=False)
     phone = db.Column(db.String(100), nullable=False)
+   
+    
 
     def __init__(self, name, email, phone):
         
             self.name = name
             self.email = email
             self.phone = phone
+
+
+
+
+
+   
+            

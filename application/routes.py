@@ -18,6 +18,7 @@ def insert():
         name = request.form['name']
         email = request.form['email']
         phone = request.form['phone']
+        
 
 
         my_data = Data(name,email,phone)
@@ -38,6 +39,7 @@ def update():
         my_data.name = request.form['name']
         my_data.email = request.form['email']
         my_data.phone = request.form['phone']
+        
 
         db.session.commit()
 
@@ -51,4 +53,6 @@ def delete(id):
     db.session.commit()
 
     return redirect(url_for('Index'))
+
+
     
