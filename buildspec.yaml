@@ -10,7 +10,7 @@ phases:
     commands:
       - "echo Setup"
       - "pip3 install -r requirements.txt"
-      - "rm test_app.py"
+    
   build:
     commands:
       - "echo Testing"
